@@ -10,7 +10,8 @@ Advanced: Retention rate, year-over-year growth, moving averages.
 
 Technologies Used
 
-MySQL / PostgreSQL / SQL syntax Subqueries & CTEs Window Functions Date Functions Join operations
+MySQL / SQL syntax Subqueries & CTEs Window Functions Date Functions Join operations
+Python Libraries like Numpy, Pandas, Matplotlib, Seaborn
 
 Key Questions Answered based on the below levels:
 
